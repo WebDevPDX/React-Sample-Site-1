@@ -1,0 +1,8 @@
+body {
+     background-color: #ddd;
+     padding-top: 10px;
+}
+
+.component {
+     box-sizing: border-box;
+}
